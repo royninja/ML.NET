@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sayan.SentimentAnalysis", "Sayan.SentimentAnalysis\Sayan.SentimentAnalysis.csproj", "{1D7F0F28-92ED-4A06-94F2-82AEDB07D9FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SentimentModel_Console", "SentimentModel_Console\SentimentModel_Console.csproj", "{C6777F19-82CB-4B84-BFFC-AB7A1CFEDDFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D7F0F28-92ED-4A06-94F2-82AEDB07D9FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D7F0F28-92ED-4A06-94F2-82AEDB07D9FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D7F0F28-92ED-4A06-94F2-82AEDB07D9FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D7F0F28-92ED-4A06-94F2-82AEDB07D9FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6777F19-82CB-4B84-BFFC-AB7A1CFEDDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6777F19-82CB-4B84-BFFC-AB7A1CFEDDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6777F19-82CB-4B84-BFFC-AB7A1CFEDDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6777F19-82CB-4B84-BFFC-AB7A1CFEDDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {518BE1C5-2864-4C5F-87BC-1122C3C1EAC3}
+	EndGlobalSection
+EndGlobal
